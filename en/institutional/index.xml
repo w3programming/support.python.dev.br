@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Institutionals on Help Center</title>
+    <link>https://support.python.dev.br/en/institutional/</link>
+    <description>Recent content in Institutionals on Help Center</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language><atom:link href="https://support.python.dev.br/en/institutional/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Affiliate Disclosure</title>
+      <link>https://support.python.dev.br/en/institutional/affiliate-disclosure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://support.python.dev.br/en/institutional/affiliate-disclosure/</guid>
+      <description>Affiliate disclosure for python.dev.br and how we use external links on our site</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://support.python.dev.br/en/institutional/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://support.python.dev.br/en/institutional/privacy-policy/</guid>
+      <description>Privacy Policy for python.dev.br</description>
+    </item>
+    
+    <item>
+      <title>Terms and Conditions</title>
+      <link>https://support.python.dev.br/en/institutional/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://support.python.dev.br/en/institutional/terms/</guid>
+      <description>Terms and conditions for using the python.dev.br website</description>
+    </item>
+    
+  </channel>
+</rss>
