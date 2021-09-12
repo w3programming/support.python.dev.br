@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://support.python.dev.br/en/institutional/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://support.python.dev.br/pt/institutional/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://support.python.dev.br/en/institutional/about/"
+                />
+  </url><url>
     <loc>https://support.python.dev.br/en/institutional/affiliate-disclosure/</loc>
     <xhtml:link
                 rel="alternate"

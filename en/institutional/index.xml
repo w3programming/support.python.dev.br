@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language><atom:link href="https://support.python.dev.br/en/institutional/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About Us</title>
+      <link>https://support.python.dev.br/en/institutional/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://support.python.dev.br/en/institutional/about/</guid>
+      <description>We create simplified learning experiences.</description>
+    </item>
+    
+    <item>
       <title>Affiliate Disclosure</title>
       <link>https://support.python.dev.br/en/institutional/affiliate-disclosure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
