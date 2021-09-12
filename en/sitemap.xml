@@ -26,6 +26,18 @@
                 href="https://support.python.dev.br/en/categories/"
                 />
   </url><url>
+    <loc>https://support.python.dev.br/en/institutional/cookie-policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://support.python.dev.br/pt/institutional/cookie-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://support.python.dev.br/en/institutional/cookie-policy/"
+                />
+  </url><url>
     <loc>https://support.python.dev.br/en/</loc>
     <xhtml:link
                 rel="alternate"
